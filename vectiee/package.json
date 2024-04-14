@@ -29,7 +29,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vectorism/titestnet.git"
+    "url": "https://github.com/Vectorism/titestnet.git"
   },
   "author": "vectorism",
   "license": "ISC",

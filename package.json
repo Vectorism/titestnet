@@ -1,0 +1,19 @@
+{
+  "name": "@vectorism/vectiee",
+  "version": "1.0.3",
+  "description": "This is my Tea testnet project, for TEA Testnet REWARD PROGRAM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vectorism/titestnet.git"
+  },
+  "author": "Vectorism",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vectorism/titestnet/issues"
+  },
+  "homepage": "https://github.com/vectorism/titestnet#readme"
+}
